@@ -1,0 +1,13 @@
+{
+  "id": "ryver",
+  "name": "Ryver",
+  "version": "1.0",
+  "description": "Ryver",
+  "main": "index.js",
+  "author": "Gareth Evans <garoevans@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://efficio.ryver.com",
+    "hasNotificationSound": true
+  }
+}
